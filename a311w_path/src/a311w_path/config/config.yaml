@@ -1,0 +1,21 @@
+# EE3305/ME3243
+# Name: Chen Guoyi (guoyi@comp.nus.edu.sg)
+# Matric number: A0262311W
+
+# Steering Control
+Kp_a: 1
+Ki_a: 0
+Kd_a: 0.001
+
+# Motoring Control
+Kp_x: 0.3
+Ki_x: 0
+Kd_x: 0.005
+
+# Target Information
+target_x: 3.5
+target_y: 5.5
+goal_x: 3.5
+goal_y: 5.5
+
+dt: 0.1
